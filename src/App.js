@@ -4,7 +4,7 @@ import Counter from './component/Counter';
 import Counter2 from './component/Counter2';
 export default function App() {
   const [num, setNum] = React.useState(0);
-  
+
   return (
     <div>
       <h1>Hello StackBlitz!</h1>
